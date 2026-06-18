@@ -1,6 +1,6 @@
 # Пинск — Городской портал
 
-🏙️ Городской портал Пинска / Pinsk city portal — Next.js 16 + React 19 + Tailwind CSS
+🏙️ Городской портал Пинска / Pinsk city portal
 
 ## О проекте
 
